@@ -9,6 +9,7 @@ from typing import List
 
 # Time Complexity: O(n)
 # Creating a new list by concatenating two lists of size 'n' requires copying '2n' elements.
+
 # Space Complexity: O(n)
 # We allocate new memory proportional to the size of the result (2n), which simplifies to O(n).
 
