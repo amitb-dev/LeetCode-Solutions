@@ -8,7 +8,9 @@ from typing import List, Optional
 # [Detail the key insight and process flow of your solution.]
 
 # Time Complexity: O([Your Complexity Here])
+# [Explaination] 
 # Space Complexity: O([Your Complexity Here])
+# [Explaination] 
 
 
 class Solution:
@@ -37,6 +39,4 @@ if __name__ == "__main__":
     # result2 = solver.functionName(input2)
     # print(f"Input: {input2}, Output: {result2}, Expected: {expected2}")
     
-    # You can add a quick assertion check here to be even more professional:
-    # assert result1 == expected1, f"Test 1 Failed: Got {result1}, Expected {expected1}"
     pass
