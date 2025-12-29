@@ -1,5 +1,5 @@
 # Problem: [Problem Number] - [Problem Title]
-# Link: [Paste LeetCode Link Here]
+# Link: 
 
 from typing import List
 
