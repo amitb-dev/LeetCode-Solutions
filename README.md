@@ -1,37 +1,20 @@
-# 🎯 Daily Coding Practice: LeetCode Solutions
+# LeetCode Solutions
 
-This repository documents my systematic practice of Data Structures and Algorithms (DSA) as part of my professional transition to a software development role. It serves as a verifiable record of my commitment to consistent problem-solving and algorithmic analysis.
+A collection of my solutions to algorithmic problems, focusing on clean code and efficient complexity.
 
-***
+## Structure
+* **Easy:** Foundational logic and basic data structures.
+* **Medium:** Core patterns (Sliding Window, Two Pointers, DFS/BFS).
+* **Hard:** Advanced optimization and complex DP.
 
-## 📁 Repository Structure
+## Standards
+* **Python 3:** All solutions are typed and runnable locally.
+* **Complexity:** Time/Space complexity documented for every solution.
+* **Clean Code:** Focus on readability and standard variable naming.
 
-The solutions are organized by difficulty to clearly track progression and focus areas.
+## Recent Focus
+* Arrays & Hashing
+* Two Pointers
+* Stack
 
-| Folder | Purpose |
-| :--- | :--- |
-| `Easy/` | Foundational problems focusing on mastering syntax, basic data structures (Arrays, Strings, Hash Maps), and core logic. |
-| `Medium/` | Core algorithmic patterns (Two Pointers, Sliding Window, BFS/DFS, Recursion, Simple Dynamic Programming). |
-| `Hard/` | Advanced problems requiring optimized techniques, complex data structure manipulation, and deep algorithmic insight. |
-| `template.py` | A standard template used to ensure **consistent documentation** and professional structure across all solutions. |
-
-***
-
-## 🛠️ Solution Standards
-
-Every solution file in this repository adheres to the following professional standards:
-
-1.  **Standardized Naming:** Files are named using the format `[Problem Number]-[Problem Title].py` (e.g., `0001-Two-Sum.py`).
-2.  **Complexity Analysis:** Each file includes metadata comments detailing the **Time Complexity ($O(n)$)** and **Space Complexity ($O(1)$)** of the implemented solution.
-3.  **Local Testability:** All files include a runnable block (`if __name__ == "__main__":`) to demonstrate the function's output with example test cases.
-
-***
-
-## 📈 Current Progress
-
-| Metric | Status (As of October 20, **2025**) |
-| :--- | :--- |
-| **Total Solutions** | **3** |
-| **Easy Problems** | 3 |
-| **Medium Problems** | 0 |
-| **Hard Problems** | 0 |
+*[Repository actively updated during 2026 job search]*
